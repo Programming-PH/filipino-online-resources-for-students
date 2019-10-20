@@ -1,10 +1,11 @@
-## How to Make a Contribution to this Repository and make a Pull Request?
+## Paano mag-contribute sa ating Repository at make a Pull Request?
 
-Thank you so much for adding more resources to this repository for our fellow Filipino Programmers. While most resources available online is English and from other country, we encourage you to add resources made our our fellow Pinoy Developers. 
+Salamat po for adding more resources to this repository for our fellow Filipino Programmers. While most resources available online is English and from other countries, we encourage you to **add resources made by our our fellow Pinoy Developers**. 
 
 ### Prerequisites
 1. **You should have an account on GitHub**.
 2. **You should have [git](https://git-scm.com/) installed on your computer**.
+3. **Optional for beginners, please install [github desktop app](https://desktop.github.com) to easily manage your github repository.**
 
 ### Step 1 :
 Fork the repository by clicking on FORK button in the upper-right corner of the page.
@@ -19,7 +20,7 @@ Create a new Branch.
 Add your contributions and details. 
 
 ### Step 5:
-Go to file "CONTRIBUTORS.md" file and add you name.
+Go to file "CONTRIBUTORS.md" file and add you name. (Optional)
 
 ### Step 6 :
 Commit and push your changes.
