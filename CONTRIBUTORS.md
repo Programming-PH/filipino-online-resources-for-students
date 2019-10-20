@@ -1,4 +1,4 @@
-## Here are the list of Pinoy Coders who contributed sa ating Repository. :philippines::philippines::philippines:
+## Here are the list of Pinoy Coders who contributed sa ating Repository. :philippines:
 
 ```
 Instructions :
@@ -21,7 +21,7 @@ Instructions :
 ## Contributors
 
 
-| S.no | Name | Province/City | Introduction | Contact |
+| S.no | Name | Province/City | What are you? | Contact |
 |------|:--------|:---------|:--------------|:------------|
 | 1. | **John Doe** :octocat:| -|Senior Dev | [Email](johndoe@gmail.com) - [GitHub](https://github.com/johndoe) - [Youtube Channel](youtube.com/johndoe)| 
 | 2. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [Youtube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
@@ -30,4 +30,4 @@ Instructions :
 
 ###  Maraming salamat po sa lahat contribution. 
 
-### Please consider giving a :star: if you :heart::yellow_heart: our efforts. :)
+### Please consider giving a :star: if you :heart: our efforts. :)
