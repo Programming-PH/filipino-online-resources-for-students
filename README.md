@@ -11,7 +11,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 2. [Facebook Group Community](#2-facebook-group-community)
 
-3. [Youtube Channels To Follow](#3-youtube-channels)
+3. [Youtube Channels To Subscribe](#3-youtube-channels-to-subscribe)
 
 4. [Online Jobs Sites](#4-online-jobs-sites)
 
@@ -35,7 +35,12 @@ If you are a College CS/IT student learning ng programming or experienced develo
 ## 2. Facebook Group Community
 
 ## 3. Youtube Channels To Subscribe
- -  [Programming PH](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) :philippines: :star:
+ - [Programming PH](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) :philippines: :star:
+ - [John Carlo Franco](https://www.youtube.com/channel/UCRfO9oznydRShqHUXeO8kaw) :philippines:
+ - [PinoyFreeCoder](https://www.youtube.com/channel/UCFpZDxOMGzsx05epqfvmzbQ):philippines: :star:
+ - [Dev Avenue](https://www.youtube.com/channel/UCltYKjGdnCQx_-5qIt7dUCA):philippines:
+ - [Pinoydatascientist](https://www.youtube.com/channel/UCTqbbm0ZhIZ0ya4TOUnH4ag):philippines:
+ - [SDPT Solutions](https://www.youtube.com/channel/UCMDL68xgNqRqzin1rkh9WuQ):philippines: :star:
 
 ## 4. Online Jobs Sites
 
