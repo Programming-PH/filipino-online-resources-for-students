@@ -17,7 +17,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 5. [Coding Bootcamp](#5-coding-bootcamp)
 
-6. [Contributing](CONTRIBUTORS.md)
+6. [Contributing](#-contributing)
 
 ---
 
@@ -47,4 +47,5 @@ If you are a College CS/IT student learning ng programming or experienced develo
 ## 5. Coding Bootcamp
 
 ## 6. Contributing
+Please read how to contribute [here](CONTRIBUTING.md).
 
