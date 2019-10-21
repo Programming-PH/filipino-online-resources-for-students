@@ -9,7 +9,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
      - [Python](#11-python)
      - [Machine Learning](#12-machine-learning)
 
-2. [Facebook Group Community](#2-facebook-group-community)
+2. [Facebook Page and Group Community](#2-facebook-page-and-group-community)
 
 3. [Youtube Channels To Subscribe](#3-youtube-channels-to-subscribe)
 
@@ -32,7 +32,15 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 ## 1. Coding Resources
 
-## 2. Facebook Group Community
+## 2. Facebook Page and Group Community
+ - [Philippine Group of Web Developers](https://www.facebook.com/groups/pg.webdev/)
+ - [FreeCodeCamp Manila](https://www.facebook.com/freeCodeCamp.Manila/)
+ - [FreeCodeCamp Cebu](https://www.facebook.com/groups/free.code.camp.cebu/)
+ - [Programmers,Developers](https://www.facebook.com/groups/ProgramersDevelopers/)
+ - [Cebu Web Developer Community](https://www.facebook.com/groups/196767804245829/)
+ - [Node.JS PH (Pinoy JS Devs)](https://www.facebook.com/groups/NodeJS.PHDevs/)
+ - [Philippine Android Developers Community](https://www.facebook.com/groups/padc.you)
+ 
 
 ## 3. Youtube Channels To Subscribe
  - [Programming PH](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) :philippines: :star:
