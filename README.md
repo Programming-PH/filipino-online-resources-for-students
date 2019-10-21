@@ -2,6 +2,8 @@
 
 If you are a College CS/IT student learning ng programming or experienced developer who needs additional resources, we prepared a carefully curated list of resources and tutorials to help each other.
 
+![Image](asset/banner.jpg)
+
 ## Table of Contents :clipboard:
 
 1. [Coding Resources](#1-coding-resources)
@@ -98,7 +100,6 @@ This provides various topics for a complete beginners. Ideal for students who ju
 
 ### Web Development 
 #### Front-End
-
 - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
 - Learn free bootcamp in [freeCodeCamp](https://www.freecodecamp.org/) :baby: :star:
 - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
