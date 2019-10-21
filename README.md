@@ -2,12 +2,12 @@
 
 If you are a College CS/IT student learning ng programming or experienced developer who needs resources, we prepared a carefully curated list of resources and tutorials to help each other.
 
-## Table of Contents :clipboard:
+## Table of Contents :clipboard
 
 1. [Coding Resources](#1-coding-resources)
 
 - [Web Development](#11-web-development)
-- [Mobile App Development](#)
+- [Mobile App Development](#fdfds)
 - [Data Science](#11-python)
 - [Machine Learning](#12-machine-learning)
 - Programming Language
@@ -38,7 +38,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 - Where to find Software Developer Jobs Online?
 - Getting started working online
 
-7.Job Posts
+7.Job Posting:
 
 - Remote Job (Work Anywhere)
 - Office Base
@@ -60,21 +60,19 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 ## 2. Philippine Facebook Page and Group Community
 
-| S.no | Name | Demographics | Description | Links |
-|------|:--------|:---------|:--------------|:------------|
-| 1. | **Programming PH** | Nationwide | - | [FB Page Link](https://www.facebook.com/ProgrammingPH/)|
-| 2. | **Philippine Group of Web Developers** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/pg.webdev/)|
-| 3. | **FreeCodeCamp Manila** | Manila/Nationwide | FCC Bootcamp Community Group | [FB Group Link](https://www.facebook.com/freeCodeCamp.Manila/)|
-| 4. | **FreeCodeCamp Cebu** | Cebu/Visayas Area | FCC Bootcamp Community Group in Cebu | [FB Group Link](https://www.facebook.com/groups/free.code.camp.cebu/)|
-| 5. | **Programmers,Developers** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/ProgramersDevelopers/)|
-| 6. | **Cebu Web Developer Community** | Cebu/Visayas Area | - | [FB Group Link](https://www.facebook.com/groups/196767804245829/)|
-| 7. | **Node.JS PH (Pinoy JS Devs)** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/NodeJS.PHDevs/)|
-| 8. | **Philippine Android Developers Community** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/padc.you)|
-| 9. | **Python Philippines (PythonPH) Community** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/pythonph)|
-| 10. | **IT Professionals PH** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/762720073916341/)|
-| 11. | **Cebu Web Designers and Developers** | Cebu/Visayas | - | [FB Group Link](https://www.facebook.com/groups/cebuwebdesignersdevs/)|
-| 12. | **AWS User Group Philippines** | Nationwide | - | [FB Group Link](https://www.facebook.com/groups/AWSUGPH/)|
-| 13. | **ReactJS Philippines** | Nationwide | - | [FB Group Link](https://www.facebook.com/reactjsphilippines/)|
+ -[Programming PH](https://www.facebook.com/ProgrammingPH/)
+ -[Philippine Group of Web Developers](https://www.facebook.com/groups/pg.webdev/)
+ -[FreeCodeCamp Manila](https://www.facebook.com/freeCodeCamp.Manila/) - FCC Community Group Manila.
+ -[FreeCodeCamp Cebu](https://www.facebook.com/groups/free.code.camp.cebu/) - FCC Bootcamp Community Group in Cebu.
+ -[Programmers,Developers](https://www.facebook.com/groups/ProgramersDevelopers/)
+ -[Cebu Web Developer Community](https://www.facebook.com/groups/196767804245829/)
+ -[Node.JS PH (Pinoy JS Devs](https://www.facebook.com/groups/NodeJS.PHDevs/)
+ -[Philippine Android Developers Community](https://www.facebook.com/groups/padc.you)
+ -[Python Philippines (PythonPH) Community](https://www.facebook.com/groups/pythonph)
+ -[IT Professionals PH](https://www.facebook.com/groups/762720073916341/)
+ -[Cebu Web Designers and Developers](https://www.facebook.com/groups/cebuwebdesignersdevs/)
+ -[AWS User Group Philippines](https://www.facebook.com/groups/AWSUGPH/)
+ -[ReactJS Philippines](https://www.facebook.com/reactjsphilippines/)
 
 ## 3. Youtube Channels To Subscribe
 
