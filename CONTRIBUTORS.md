@@ -1,4 +1,4 @@
-## Here are the list of Pinoy Coders who contributed sa ating Repository. :philippines:
+# Here are the list of Pinoy Coders who contributed sa ating Repository. :philippines:
 
 ```
 Instructions :
@@ -17,9 +17,7 @@ Instructions :
   linked-in, personal website, etc...
 ```
 
-
 ## Contributors
-
 
 | S.no | Name | Province/City | What are you? | Contact |
 |------|:--------|:---------|:--------------|:------------|
@@ -28,6 +26,6 @@ Instructions :
 
 ---
 
-###  Maraming salamat po sa lahat contribution. 
+### Maraming salamat po sa lahat contribution.
 
 ### Please consider giving a :star: if you :heart: our efforts. :)
