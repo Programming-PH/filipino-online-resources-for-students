@@ -2,7 +2,7 @@
 
 If you are a College CS/IT student learning ng programming or experienced developer who needs additional resources, we prepared a carefully curated list of resources and tutorials to help each other.
 
-![Image](asset/banner.jpg)
+![Image](asset/banner.png)
 
 ## Table of Contents :clipboard:
 
