@@ -9,7 +9,8 @@ If you are a College CS/IT student learning ng programming or experienced develo
 1. [Coding Resources](#1-coding-resources)
 	1. [Computer Science Fundamentals](#i-Computer-Science-Fundamentals)
           1. [Computers Basic](#Computer-Basic) (Absolute Beginners)
-          2. [Programming Basic Fundamentals](#) 
+          2. [Programming Basic Fundamentals](#)
+          3. [Programming Tips and Advise](#)
 
 	2. [Web Development](#11-web-development)
 		1. [Front-End](#) 
@@ -99,7 +100,7 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - Computer Terminology
 
 ### b. Programming Basic
-- [Programming Fundamentals](https://www.youtube.com/watch?v=ORm3CexT3wE&list=PLVnJhHoKgEmo27CVYZulSIbSaYDpEpzbg)- a tagalog video tutorial playlist by SDPT Solutions.
+- [Programming Fundamentals](https://www.youtube.com/watch?v=ORm3CexT3wE&list=PLVnJhHoKgEmo27CVYZulSIbSaYDpEpzbg)- a tagalog video tutorial playlist by SDPT Solutions. :philippines: :baby: :school:
 - What is programming syntax?
 - What is pseudocode?
 - What is a flow-chart?
@@ -166,12 +167,13 @@ This provides various topics for a complete beginners. Ideal for students who ju
 ## Support our Fellow Filipino :philippines: Programmers in Youtube [^](#table-of-contents)
 
 - **[Programming PH](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg)**  - General Advise, programming tips, tricks, and tutorials in tagalog language. Founded by [Jorge](https://github.com/jorgerosal).
+- **[SDPT Solutions](https://www.youtube.com/channel/UCMDL68xgNqRqzin1rkh9WuQ)** - tagalog tutorials for beginners. 
 - **[John Carlo Franco](https://www.youtube.com/channel/UCRfO9oznydRShqHUXeO8kaw)** - [John](https://github.com/francojohnc) is making videos mostly on Progamming tips and advise videos in tagalog.
 - **[Rem Lampa](https://www.youtube.com/channel/UC3khUmB7mxpkrF1GjKjpa7A)** - FreeCodeCamp Manila Community Leader. [Rem](https://github.com/RemLampa) is doing live discussion on IT related stuff on his channel.
 - **[PinoyFreeCoder](https://www.youtube.com/channel/UCFpZDxOMGzsx05epqfvmzbQ)** - Tutorials in tagalog language.
 - **[Dev Avenue](https://www.youtube.com/channel/UCltYKjGdnCQx_-5qIt7dUCA)**
 - **[Pinoydatascientist](https://www.youtube.com/channel/UCTqbbm0ZhIZ0ya4TOUnH4ag)** - data science topics.
-- **[SDPT Solutions](https://www.youtube.com/channel/UCMDL68xgNqRqzin1rkh9WuQ)** - fun tagalog tutorials for beginners. 
+
 
 # 4. FREE Book Library
 ## Our Shared Dropbox Folder
