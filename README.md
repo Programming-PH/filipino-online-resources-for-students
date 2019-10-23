@@ -13,9 +13,9 @@ If you are a College CS/IT student learning ng programming or experienced develo
           3. [Programming Tips and Advise](#)
 
 	2. [Web Development](#11-web-development)
-		1. [Front-End](#) 
-		2. [Back-End](#) *[pending]*
-    	3. [Full-stack](#) *[pending]*
+	     1. [Front-End](#) 
+	     2. [Back-End](#) *[pending]*
+          3. [Full-stack](#) *[pending]*
 
 	2. [Mobile App Development](#) *[pending]*
 		1. [Android](#) *[pending]*
@@ -23,14 +23,14 @@ If you are a College CS/IT student learning ng programming or experienced develo
 		3. [Flutter](#) *[pending]*
 
 	3. [Data Science](#11-python) *[pending]*
-        1. [Data Science Fundamentals](#) *[pending]*
-		1. [Business Intelligent Software](#) *[pending]*
-		1. [Others](#) *[pending]*
+          1. [Data Science Fundamentals](#) *[pending]*
+		2. [Business Intelligent Software](#) *[pending]*
+		3. [Others](#) *[pending]*
 
 	4. [Machine Learning](#12-machine-learning) *[pending]*
 
 	5. [Programming Language](url) *[pending]*
-		1. [Javascript/NodeJs](url) *[pending]*
+		1. [Javascript/NodeJs](url) 
 		2. [Python](url) *[pending]*
 		3. [Java](url) *[pending]*
 		4. [PHP](url) *[pending]*
@@ -92,7 +92,9 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 ## i. Computer Science Fundamentals
 This provides various topics for a complete beginners. Ideal for students who just started learning about programming. 
+
 ### a. Computer Basic (Absolute Beginners)
+
 - [How the Internet Works in 5 Minutes - YouTube](https://www.youtube.com/watch?v=7_LPdttKXPc)
 - What is computer?
 - Improve your typing speed by playing **[type racer game](https://play.typeracer.com)**.
@@ -100,6 +102,7 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - Computer Terminology
 
 ### b. Programming Basic
+
 - [Programming Fundamentals](https://www.youtube.com/watch?v=ORm3CexT3wE&list=PLVnJhHoKgEmo27CVYZulSIbSaYDpEpzbg)- a tagalog video tutorial playlist by SDPT Solutions. :philippines: :baby: :school:
 - What is programming syntax?
 - What is pseudocode?
@@ -110,7 +113,9 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - Difference between BS-IT and BS-CS? 
 
 ## Web Development 
+
 ### Front-End
+
 - [HTML and CSS Tutorials | w3schools.com](https://www.w3schools.com/html/default.asp) :baby:
 - Learn free bootcamp in [freeCodeCamp](https://www.freecodecamp.org/) :baby: :star:
 - [HTML & CSS Catalog | Codecademy](https://www.codecademy.com/catalog/language/html-css)
@@ -130,6 +135,8 @@ This provides various topics for a complete beginners. Ideal for students who ju
 
 ### Full-stack
 
+- [Online Resourse for Web Developer](https://github.com/YankoFutekov/OnlineResourcesForWebDevelopers)
+
 ## Mobile App Development
 
 ### Android
@@ -141,12 +148,33 @@ This provides various topics for a complete beginners. Ideal for students who ju
 ## Data Science
 
 ## Machine Learning
+
 - [Learn Deep Learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
+
 ## Programming Language
+
+### Javascript/NodeJs
+
+- [NodeJs Boilerplate](https://github.com/Programming-PH/nodejs-boilerplate) - Kickstart your NodeJs script project by using a boilerplate.
+- [Learn Javascript in 1 HOUR](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Video Tutorial by Mosh. :start:
+- [Javascript in 3hrs](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hrs Video Tutorial by Freecodecamp.
+- [Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - a 30 hrs course bootcamp prepared by [Codeacademy](https://www.codecademy.com). :baby:
+
+### Python
+
+### Java
+
+### PHP
+
+### C++
+
+### Ruby
+
+### Dart/Flutter
 
 ## Programming Skillset
 
-# 2. Online Filipino Coding Community [^](#table-of-contents)
+# 2. Online Filipino Coding Community
 
 ## Facebook Programming Cummunity Groups and Page
 
@@ -176,14 +204,24 @@ This provides various topics for a complete beginners. Ideal for students who ju
 
 
 # 4. FREE Book Library
+
 ## Our Shared Dropbox Folder
+
 - Click [here](https://www.dropbox.com/sh/7bctdxlyq2hvus5/AADZ456-rS1GzOdhpkQCTyzpa?dl=0) to access dropbox link to books in view mode. If you want full access to the folder, please send us a request with your email address.
 - Want to contribute ebooks? [Upload](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) it into our shared dropbox folder. Click [here](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) to upload. 
+
 ## Other Library
 
+- [Free programming books github repo](https://github.com/EbookFoundation/free-programming-books) - Largest maintained free books repository. Multilanguage.
+
 # Support Programming PH
+
 ## Contribute
+
+We are at the very early stage of this repository. Any help and contribution is welcome.
 - Please read how to contribute [here](CONTRIBUTING.md)
 - Our [contributors](https://github.com/Programming-PH/filipino-online-resources-for-students/graphs/contributors).
+
 ## Share the love
+
 Love only grows by sharing. You can only have more for yourself by giving it away to others. Show us some love by giving this repository a :star:. Share it others. It's a win-win for both of us. :)
