@@ -99,6 +99,7 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - Computer Terminology
 
 ### b. Programming Basic
+- [Programming Fundamentals](https://www.youtube.com/watch?v=ORm3CexT3wE&list=PLVnJhHoKgEmo27CVYZulSIbSaYDpEpzbg)- a tagalog video tutorial playlist by SDPT Solutions.
 - What is programming syntax?
 - What is pseudocode?
 - What is a flow-chart?
@@ -139,7 +140,7 @@ This provides various topics for a complete beginners. Ideal for students who ju
 ## Data Science
 
 ## Machine Learning
-	- [Learn Deep Learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
+- [Learn Deep Learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks/)
 ## Programming Language
 
 ## Programming Skillset
