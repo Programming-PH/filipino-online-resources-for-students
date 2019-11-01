@@ -8,14 +8,14 @@ If you are a College CS/IT student learning ng programming or experienced develo
 
 1. [Coding Resources](#1-coding-resources)
 	1. [Computer Science Fundamentals](#i-Computer-Science-Fundamentals)
-          1. [Computers Basic](#Computer-Basic) (Absolute Beginners)
-          2. [Programming Basic Fundamentals](#)
-          3. [Programming Tips and Advise](#)
+        1. [Computers Basic](#Computer-Basic) (Absolute Beginners)
+        2. [Programming Basic Fundamentals](#)
+        3. [Programming Tips and Advise](#)
 
 	2. [Web Development](#11-web-development)
-	     1. [Front-End](#) 
-	     2. [Back-End](#) *[pending]*
-          3. [Full-stack](#) *[pending]*
+	    1. [Front-End](#) 
+	    2. [Back-End](#) *[pending]*
+        3. [Full-stack](#) *[pending]*
 
 	2. [Mobile App Development](#) *[pending]*
 		1. [Android](#) *[pending]*
@@ -23,7 +23,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 		3. [Flutter](#) *[pending]*
 
 	3. [Data Science](#11-python) *[pending]*
-          1. [Data Science Fundamentals](#) *[pending]*
+        1. [Data Science Fundamentals](#) *[pending]*
 		2. [Business Intelligent Software](#) *[pending]*
 		3. [Others](#) *[pending]*
 
@@ -133,8 +133,8 @@ This provides various topics for a complete beginners. Ideal for students who ju
 
 ### Back-End
 
-### Full-stack
 
+### Full-stack
 - [Online Resourse for Web Developer](https://github.com/YankoFutekov/OnlineResourcesForWebDevelopers)
 
 ## Mobile App Development
@@ -144,6 +144,12 @@ This provides various topics for a complete beginners. Ideal for students who ju
 ### iOS
 
 ### Flutter
+Build cross platform mobile app using Flutter. With flutter you can write in a single code-base (Dart Programming language) and deploy both iOS and Android app.
+
+- [Official Flutter Website](https://flutter.dev/)
+- [Flutter Sample apps library](https://github.com/flutter/samples)
+- [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
+
 
 ## Data Science
 
@@ -211,7 +217,7 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - Want to contribute ebooks? [Upload](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) it into our shared dropbox folder. Click [here](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) to upload. 
 
 ## Other Library
-
+- [Free for Dev Services](https://free-for.dev/#/)
 - [Free programming books github repo](https://github.com/EbookFoundation/free-programming-books) - Largest maintained free books repository. Multilanguage.
 
 # Support Programming PH
