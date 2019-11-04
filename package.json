@@ -1,0 +1,22 @@
+{
+  "name": "filipino-online-resources-for-students",
+  "version": "1.0.0",
+  "description": "If you are a College CS/IT student learning ng programming or experienced developer who needs additional resources, we prepared a carefully curated list of resources and tutorials to help each other.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Programming-PH/filipino-online-resources-for-students.git"
+  },
+  "author": "Programming PH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Programming-PH/filipino-online-resources-for-students/issues"
+  },
+  "homepage": "https://github.com/Programming-PH/filipino-online-resources-for-students#readme",
+  "devDependencies": {
+    "markdownlint": "^0.17.2"
+  }
+}
