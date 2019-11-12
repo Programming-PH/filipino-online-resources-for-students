@@ -9,7 +9,7 @@ Instructions :
 
 - In case you don't want to disclose your contact information, no problem,
   this list is just created to get to know people who are contributing to this repository.
-  
+
   Additional Info:
   - Profession: Please specify what type of profession you are at.
    (i.e. Front-end Dev, Back-end Dev, Student, Mobile Dev, Full Stack, ...)
@@ -21,8 +21,9 @@ Instructions :
 
 | S.no | Name | Province/City | What are you? | Contact |
 |------|:--------|:---------|:--------------|:------------|
-| 1. | **John Doe** :octocat:| -|Senior Dev | [Email](johndoe@gmail.com) - [GitHub](https://github.com/johndoe) - [Youtube Channel](youtube.com/johndoe)| 
+| 1. | **John Doe** :octocat:| -|Senior Dev | [Email](johndoe@gmail.com) - [GitHub](https://github.com/johndoe) - [Youtube Channel](youtube.com/johndoe)|
 | 2. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [Youtube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
+| 2. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
 
 ---
 
