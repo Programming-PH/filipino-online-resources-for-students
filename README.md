@@ -13,7 +13,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
         3. [Programming Tips and Advise](#)
 
 	2. [Web Development](#11-web-development)
-	    1. [Front-End](#) 
+	    1. [Front-End](#)
 	    2. [Back-End](#) *[pending]*
         3. [Full-stack](#) *[pending]*
 
@@ -30,7 +30,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 	4. [Machine Learning](#12-machine-learning) *[pending]*
 
 	5. [Programming Language](url) *[pending]*
-		1. [Javascript/NodeJs](url) 
+		1. [Javascript/NodeJs](url)
 		2. [Python](url) *[pending]*
 		3. [Java](url) *[pending]*
 		4. [PHP](url) *[pending]*
@@ -42,7 +42,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 		1. [Project Management](url) *[pending]*
 		2. [Programming Useful tools](url) *[pending]*
 		3. [Coding Project Ideas](url) *[pending]*
-		4. [Git](url) *[pending]*
+		4. [Git](#)
 		5. [Web Scraping](url) *[pending]*
 		6. [DevOps](url) *[pending]*
 		7. [SEO](url) *[pending]*
@@ -91,7 +91,7 @@ If you are a College CS/IT student learning ng programming or experienced develo
 # 1. Coding Resources
 
 ## i. Computer Science Fundamentals
-This provides various topics for a complete beginners. Ideal for students who just started learning about programming. 
+This provides various topics for a complete beginners. Ideal for students who just started learning about programming.
 
 ### a. Computer Basic (Absolute Beginners)
 
@@ -110,9 +110,9 @@ This provides various topics for a complete beginners. Ideal for students who ju
 - What is a programming language?
 - Binary numbers
 - What is IDE?
-- Difference between BS-IT and BS-CS? 
+- Difference between BS-IT and BS-CS?
 
-## Web Development 
+## Web Development
 
 ### Front-End
 
@@ -180,6 +180,13 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 
 ## Programming Skillset
 
+### Git
+
+- [Using Git](https://help.github.com/en/github/using-git) - Learn common and advanced workflows in Git to enhance your experience using GitHub.
+- [Terminal Cheat sheet](https://gist.github.com/cferdinandi/ef665330286fd5d7127d) - Learning the terminal commands for Git from basic to advance.
+- [Git-flow Cheat sheet](https://danielkummer.github.io/git-flow-cheatsheet/) - Efficient branching with git-flow.
+
+
 # 2. Online Filipino Coding Community
 
 ## Facebook Programming Cummunity Groups and Page
@@ -201,7 +208,7 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 ## Support our Fellow Filipino :philippines: Programmers in Youtube [^](#table-of-contents)
 
 - **[Programming PH](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg)**  - General Advise, programming tips, tricks, and tutorials in tagalog language. Founded by [Jorge](https://github.com/jorgerosal).
-- **[SDPT Solutions](https://www.youtube.com/channel/UCMDL68xgNqRqzin1rkh9WuQ)** - tagalog tutorials for beginners. 
+- **[SDPT Solutions](https://www.youtube.com/channel/UCMDL68xgNqRqzin1rkh9WuQ)** - tagalog tutorials for beginners.
 - **[John Carlo Franco](https://www.youtube.com/channel/UCRfO9oznydRShqHUXeO8kaw)** - [John](https://github.com/francojohnc) is making videos mostly on Progamming tips and advise videos in tagalog.
 - **[Rem Lampa](https://www.youtube.com/channel/UC3khUmB7mxpkrF1GjKjpa7A)** - FreeCodeCamp Manila Community Leader. [Rem](https://github.com/RemLampa) is doing live discussion on IT related stuff on his channel.
 - **[PinoyFreeCoder](https://www.youtube.com/channel/UCFpZDxOMGzsx05epqfvmzbQ)** - Tutorials in tagalog language.
@@ -214,7 +221,7 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 ## Our Shared Dropbox Folder
 
 - Click [here](https://www.dropbox.com/sh/7bctdxlyq2hvus5/AADZ456-rS1GzOdhpkQCTyzpa?dl=0) to access dropbox link to books in view mode. If you want full access to the folder, please send us a request with your email address.
-- Want to contribute ebooks? [Upload](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) it into our shared dropbox folder. Click [here](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) to upload. 
+- Want to contribute ebooks? [Upload](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) it into our shared dropbox folder. Click [here](https://www.dropbox.com/request/ketm016DRCFLvkKeX3MP) to upload.
 
 ## Other Library
 - [Free for Dev Services](https://free-for.dev/#/)
