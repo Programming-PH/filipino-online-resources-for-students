@@ -165,6 +165,7 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 - [Learn Javascript in 1 HOUR](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Video Tutorial by Mosh. :start:
 - [Javascript in 3hrs](https://www.youtube.com/watch?v=PkZNo7MFNFg) - 3 hrs Video Tutorial by Freecodecamp.
 - [Introduction to Javascript](https://www.codecademy.com/learn/introduction-to-javascript) - a 30 hrs course bootcamp prepared by [Codeacademy](https://www.codecademy.com). :baby:
+- [10 Things you shouldn't do while running NodeJs in Production](https://hashnode.com/post/10-things-you-shouldnt-do-while-running-nodejs-in-production-cisab2fyu0s9oth5341faywcw). :star:
 
 ### Python
 
