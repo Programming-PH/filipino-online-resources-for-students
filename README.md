@@ -168,6 +168,10 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 
 ### Python
 
+- [Python Tutorial v3.7.5](https://docs.python.org/3.7/tutorial/index.html) - Documentatio for Python 3.7.5.
+- [Python Glossary](https://docs.python.org/3.7/glossary.html#glossary) - List of everything used in Python.
+
+
 ### Java
 
 ### PHP
