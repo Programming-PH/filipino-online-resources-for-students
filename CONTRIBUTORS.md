@@ -23,8 +23,8 @@ Instructions :
 |------|:--------|:---------|:--------------|:------------|
 | 1. | **John Doe** :octocat:| -|Senior Dev | [Email](johndoe@gmail.com) - [GitHub](https://github.com/johndoe) - [Youtube Channel](youtube.com/johndoe)|
 | 2. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [Youtube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
-| 2. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
-
+| 3. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
+| 4. | **Alexis Michael Rizon** | Cebu City | Web Developer | [GitHub](https://github.com/MugssyBoy) |
 ---
 
 ### Maraming salamat po sa lahat contribution.
