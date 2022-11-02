@@ -209,6 +209,7 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
  - [Cebu Web Designers and Developers](https://www.facebook.com/groups/cebuwebdesignersdevs/)
  - [AWS User Group Philippines](https://www.facebook.com/groups/AWSUGPH/)
  - [ReactJS Philippines](https://www.facebook.com/reactjsphilippines/)
+ - [Antares Programming](https://facebook.com/antaresprogramming) - easy-to-digest HTML/CSS infographics in Tagalog 
 
 ## Support our Fellow Filipino :philippines: Programmers in Youtube [^](#table-of-contents)
 
@@ -219,7 +220,6 @@ Build cross platform mobile app using Flutter. With flutter you can write in a s
 - **[PinoyFreeCoder](https://www.youtube.com/channel/UCFpZDxOMGzsx05epqfvmzbQ)** - Tutorials in tagalog language.
 - **[Dev Avenue](https://www.youtube.com/channel/UCltYKjGdnCQx_-5qIt7dUCA)**
 - **[Pinoydatascientist](https://www.youtube.com/channel/UCTqbbm0ZhIZ0ya4TOUnH4ag)** - data science topics.
-
 
 # 4. FREE Book Library
 

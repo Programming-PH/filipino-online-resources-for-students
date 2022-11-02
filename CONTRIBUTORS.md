@@ -25,6 +25,7 @@ Instructions :
 | 2. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [Youtube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
 | 3. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
 | 4. | **Alexis Michael Rizon** | Cebu City | Web Developer | [GitHub](https://github.com/MugssyBoy) |
+| 5. | **Francis Rubio** | Caloocan City | Web Developer | [GitHub](https://github.com/teacherbuknoy) - [Website](https://teacherbuknoy.netlify.app/) - [Twitter](https://www.twitter.com/teacherbuknoy) |
 ---
 
 ### Maraming salamat po sa lahat contribution.
