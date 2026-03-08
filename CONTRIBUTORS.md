@@ -1,4 +1,4 @@
-# Here are the list of Pinoy Coders who contributed sa ating Repository. :philippines:
+# Here is the list of Pinoy coders who contributed sa ating repository. :philippines:
 
 ```
 Instructions :
@@ -21,11 +21,10 @@ Instructions :
 
 | S.no | Name | Province/City | What are you? | Contact |
 |------|:--------|:---------|:--------------|:------------|
-| 1. | **John Doe** :octocat:| -|Senior Dev | [Email](johndoe@gmail.com) - [GitHub](https://github.com/johndoe) - [Youtube Channel](youtube.com/johndoe)|
-| 2. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [Youtube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
-| 3. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
-| 4. | **Alexis Michael Rizon** | Cebu City | Web Developer | [GitHub](https://github.com/MugssyBoy) |
-| 5. | **Francis Rubio** | Caloocan City | Web Developer | [GitHub](https://github.com/teacherbuknoy) - [Website](https://teacherbuknoy.netlify.app/) - [Twitter](https://www.twitter.com/teacherbuknoy) |
+| 1. | **Jorge Rosal** | Cebu City | Web Developer | [GitHub](https://github.com/jorgerosal) - [YouTube Channel](https://www.youtube.com/channel/UCzuOQurgDZCdHUFBwL6Oexg) |
+| 2. | **John Wilfred Montilde** | Duero, Bohol | Mid-level Web Developer | [GitHub](https://github.com/ewojjowe) |
+| 3. | **Alexis Michael Rizon** | Cebu City | Web Developer | [GitHub](https://github.com/MugssyBoy) |
+| 4. | **Francis Rubio** | Caloocan City | Web Developer | [GitHub](https://github.com/teacherbuknoy) - [Website](https://teacherbuknoy.netlify.app/) - [Twitter](https://www.twitter.com/teacherbuknoy) |
 ---
 
 ### Maraming salamat po sa lahat contribution.
