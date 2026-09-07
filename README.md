@@ -407,6 +407,7 @@ Use this format for each track:
 ## Resume, Portfolio, and Interview Prep
 
 - [resume.io](https://resume.io/) - Resume templates and examples.
+- [ResumeAI](https://withresumeai.com/) - AI resume builder and free ATS checker.
 - [Canva Resume Builder](https://www.canva.com/resumes/templates/) - Free resume templates.
 - [Frontend Mentor](https://www.frontendmentor.io/) - Practice projects for frontend portfolio. ⭐
 - [Exercism](https://exercism.org/) - Coding practice with mentor feedback. ⭐
